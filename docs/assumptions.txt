@@ -1,0 +1,11 @@
+Assumptions made while coding for this problem:
+
+1. Content of inputs are stored in a single file text.txt 
+
+2. Path for text.txt need to be changed while testing this code
+
+3. Satisfaction factor is calculated based on values available in each item in given item
+
+4. Have used collections API, a POJO to implement the logic
+
+5. File text.txt is attached along with solution
